@@ -1,7 +1,7 @@
 {
   "name": "tdd-starter",
   "version": "1.0.0",
-  "description": "tdd starter",
+  "description": "tdd-starter",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/karma/bin/karma start karma.conf.js",
